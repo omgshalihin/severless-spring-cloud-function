@@ -1,0 +1,4 @@
+dev/danvega/newsletter/NewsletterApplication.class
+dev/danvega/newsletter/service/SubscriberService.class
+dev/danvega/newsletter/model/Subscriber.class
+dev/danvega/newsletter/functions/Subscribers.class
